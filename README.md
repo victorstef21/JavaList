@@ -1,2 +1,2 @@
 # JavaList
-How to create Java List
+How to create JavaList
